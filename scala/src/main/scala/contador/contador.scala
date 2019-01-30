@@ -1,0 +1,5 @@
+package contador
+
+object contador {
+  
+}
